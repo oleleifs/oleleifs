@@ -5,4 +5,4 @@
 <h3>Linguas que falo:</h3>
   <h4>Inglês, Português</h4>
 
-<h1>perfil inteiro sugeito a mudança!</h1>
+<h1>Perfil inteiro sugeito a mudança.</h1>
