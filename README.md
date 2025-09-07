@@ -1,6 +1,6 @@
 ## Fala! Eu me chamo Leon! 😉
 
-<p>Sou um programador iniciante procurando aprender masi e "commitar" minha carreira!</p>
+<p>Sou um programador iniciante procurando aprender mais e "commitar" minha carreira!</p>
 
 <h3>Linguas que falo:</h3>
   <h4>Inglês, Português</h4>
