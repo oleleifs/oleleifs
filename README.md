@@ -14,5 +14,5 @@
 [![](https://visitcount.itsvg.in/api?id=oleleifs&icon=0&color=10)](https://visitcount.itsvg.in)
 
 ## 🌐 Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@o_lelesn)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o_lelesn)
 ---
